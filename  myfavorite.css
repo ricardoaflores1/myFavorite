@@ -1,0 +1,29 @@
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+}
+
+.one {
+    color: violet;
+}
+
+.two {
+    color: yellow;
+}
+
+#new {
+    color: orange;
+}
+
+.picone2 {
+    width: 600px;
+    height: 500x;
+}
+
+.three {
+    padding: 20px;
+}
